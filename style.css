@@ -427,3 +427,7 @@ footer {
 footer p {
     text-align: center;
 }
+
+.hidden {
+    display: none;
+}
